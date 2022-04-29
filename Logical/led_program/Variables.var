@@ -1,0 +1,4 @@
+VAR
+	iterator : USINT;
+	i : USINT;
+END_VAR

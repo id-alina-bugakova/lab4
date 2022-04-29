@@ -1,0 +1,9 @@
+VAR CONSTANT
+	State_Disabled : USINT := 64;
+	State_Ready : USINT := 33;
+	State_Switched_ON : USINT := 35;
+	CMD_Disable_Voltage : USINT := 0;
+	CMD_Shutdown : USINT := 6;
+	CMD_Enable : USINT := 15;
+	CMD_Switch_ON : USINT := 7;
+END_VAR
